@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学生信息管理", "学生信息管理\学生信息管理.vcxproj", "{660D4C86-20BF-4999-BFBA-3BC2E8025446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Debug|x64.ActiveCfg = Debug|x64
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Debug|x64.Build.0 = Debug|x64
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Debug|x86.ActiveCfg = Debug|Win32
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Debug|x86.Build.0 = Debug|Win32
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Release|x64.ActiveCfg = Release|x64
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Release|x64.Build.0 = Release|x64
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Release|x86.ActiveCfg = Release|Win32
+		{660D4C86-20BF-4999-BFBA-3BC2E8025446}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F3BF59-AE9A-4468-81E6-360EDB2A513B}
+	EndGlobalSection
+EndGlobal
